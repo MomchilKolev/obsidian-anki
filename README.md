@@ -39,7 +39,7 @@ A utility tool to automatically parse Obsidian notes (or any other text files) a
 
 -   ::Example~Image![sketch](https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg){drawing, sketch, girl}::
     -   Front - Example
-    -   Back - Image ![sketch](https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg)
+    -   Back - Image <img src="https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg" alt="sketch" />
     -   Tags - drawing, sketch, girl
 
 ## TODO
