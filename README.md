@@ -25,20 +25,22 @@ A utility tool to automatically parse Obsidian notes (or any other text files) a
 #### `::Front~Back::`
 
 -   ::What is love?~Baby don't hurt me, don't hurt me, no more::
-    _ Front - What is love?
-    _ Back - Baby don't hurt me, don't hurt me, no more
+    -   Front - What is love?
+    -   Back - Baby don't hurt me, don't hurt me, no more
 
 #### `::Front~Back{tag1, tag2}::`
 
 -   ::Who is Vasily Arkhipov?~The man who prevented World War 3 during the Cubin missile crisis{history}::
-    _ Front - Who is Vasily Arkhipov?
-    _ Back - The man who prevented World War 3 during the Cubin missile crisis. \* Tags - history
+    -   Front - Who is Vasily Arkhipov?
+    -   Back - The man who prevented World War 3 during the Cubin missile crisis.
+    -   Tags - history
 
 #### `::Front~Back![alt](src){tag1, tag2}::`
 
 -   ::Example~Image![sketch](https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg){drawing, sketch, girl}::
-    _ Front - Example
-    _ Back - Image ![sketch](https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg) \* Tags - drawing, sketch, girl
+    -   Front - Example
+    -   Back - Image ![sketch](https://i.pinimg.com/originals/62/a9/50/62a950532ba377959c6c867238c20a88.jpg)
+    -   Tags - drawing, sketch, girl
 
 ## TODO
 
